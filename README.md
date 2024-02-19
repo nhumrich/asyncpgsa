@@ -3,6 +3,8 @@
 # asyncpgsa
 A python library wrapper around asyncpg for use with sqlalchemy
 
+This is the new project. The project from CanopyTax is deprecated.
+
 ## Backwards incompatibility notice
 Since this library is still in pre 1.0 world, the api might change. 
 I will do my best to minimize changes, and any changes that get added, 
